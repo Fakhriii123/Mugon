@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "653cbcb1a740bc331a64435a"
+  },
+  "Nama": "Biola Mandalika",
+  "Harga": "Rp.2.500.000",
+  "Deskripsi": "Jual Biola Barang Bagus",
+  "Tahun": "2022"
+},
+{
+  "_id": {
+    "$oid": "653cbde2a740bc331a64435b"
+  },
+  "Nama": "Biola Cremona Cervini productnation",
+  "Harga": "Rp.2.000.000",
+  "Deskripsi": "Jual Biola Barang Bagus",
+  "Tahun": "2021"
+}]

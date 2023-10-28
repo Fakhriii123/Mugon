@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "653cb9a135660de57b3ea1d3"
+  },
+  "Nama": "Gitar Yamaha",
+  "Harga": "Rp 2.000.000",
+  "Deskripsi": "Barang Langka",
+  "Tahun": "2020"
+}]
